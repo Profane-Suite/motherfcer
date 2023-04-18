@@ -1,0 +1,12 @@
+[submodule "profanesuite-parent"]
+	path = profanesuite-parent
+	url = git@github.com:ProfaneSuite/parent.git
+[submodule "profanesuite-maven-parent"]
+	path = profanesuite-maven-parent
+	url = git@github.com:ProfaneSuite/maven-parent.git
+[submodule "profanesuite-jar-resource"]
+	path = profanesuite-jar-resource
+	url = git@github.com:ProfaneSuite/profane-jar-resource-bundle.git
+[submodule "profanesuite-clean-sht-pom-maven-plugin"]
+	path = profanesuite-clean-sht-pom-maven-plugin
+	url = git@github.com:ProfaneSuite/profanesuite-clean-sht-pom-maven-plugin.git
